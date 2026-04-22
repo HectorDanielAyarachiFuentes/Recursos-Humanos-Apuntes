@@ -13,3 +13,16 @@ desktop.ini
 # Archivos temporales de Office
 ~$*.docx
 ~$*.xlsx
+# Chrome Profile (NotebookLM)
+chrome_profile_notebooklm/
+notebooklm-config.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Temporales de extracción
+page_debug.html
+syllabus_data.txt
+autores_lista.txt

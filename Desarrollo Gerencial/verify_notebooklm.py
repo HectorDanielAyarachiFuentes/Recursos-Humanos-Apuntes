@@ -2,7 +2,7 @@ import subprocess
 import json
 import sys
 
-cmd = [r"C:\Users\Ramoncito\AppData\Local\Programs\Python\Python311\Scripts\notebooklm-mcp.exe"]
+cmd = [r"C:\Users\Ramoncito\AppData\Local\Programs\Python\Python311\Scripts\notebooklm-mcp.exe", "--config", "notebooklm-config.json", "server"]
 try:
     process = subprocess.Popen(cmd, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
 except Exception as e:
