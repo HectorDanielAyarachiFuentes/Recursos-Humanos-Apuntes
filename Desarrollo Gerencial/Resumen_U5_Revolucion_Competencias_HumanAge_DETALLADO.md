@@ -37,6 +37,7 @@ Ante ciclos de habilidades tan cortos, las empresas están obligadas a abandonar
 > [!NOTE]
 > **RR.HH: Del Arte a la Ciencia**
 > Para gestionar este talento, las decisiones basadas en la "intuición" gerencial están siendo reemplazadas por la digitalización y el **Big Data** de los empleados, permitiendo a la alta dirección tomar decisiones mucho más rápidas y efectivas.
+> *Perspectiva NotebookLM:* Esta transición "del arte a la ciencia" significa que Recursos Humanos abandona su rol histórico puramente administrativo o emocional (el "arte" de contratar "a ojo") para adoptar un rigor estadístico y matemático. El talento es ahora un activo medible que se proyecta con algoritmos predictivos para evitar crisis futuras.
 
 > [!TIP]
 > **La "Intimidad del Candidato"**

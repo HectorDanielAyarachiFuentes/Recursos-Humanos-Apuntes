@@ -3,6 +3,11 @@
 **Autor:** Ernesto Gore
 **Unidad:** 1
 
+> [!NOTE]
+> **Versión 4: "Las competencias como conjunto de la acción"**
+> Esta es la visión definitiva que asume Gore. Las competencias no son solo un conjunto de tareas o herramientas aisladas. Son la **integración** de conocimientos técnicos, habilidades relacionales y el contexto específico donde ocurren. La competencia solo existe "en acción".
+> *Perspectiva NotebookLM (Learnability):* Bajo esta visión, Gore se anticipa a lo que hoy llamamos *Aprendibilidad*. Como la acción siempre ocurre en un entorno cambiante, la competencia más importante no es lo que el sujeto ya sabe hacer, sino su capacidad intrínseca para aprender a accionar frente a nuevos desafíos.
+
 Este documento constituye el apunte de estudio universitario completo sobre el texto de Ernesto Gore, detallando todos sus conceptos, modelos y clasificaciones sobre las competencias laborales, organizado visualmente para optimizar su lectura.
 
 ---

@@ -46,6 +46,12 @@ Sus tres metas innegociables son: *Supervivencia, Rentabilidad y Crecimiento*. P
 2. **Agudeza Factorial:** Dominar los conceptos científicos del mercado.
 3. **Proceso Administrativo:** Disciplina para definir rumbos, asumir resultados, evaluar y reiniciar el ciclo bajo estrictas reglas éticas.
 4. **Competencias Humanísticas:** El líder no solo "dice", sino que actúa pensando en su gente como el principal activo, vislumbrando sus posibilidades de crecimiento.
+
+> [!IMPORTANT]
+> **La Tecnología Cerebral y el Cambio de Paradigma**
+> Crissien Castillo introduce un concepto innovador: el uso de la **tecnología cerebral**. El gerente moderno debe conocer cómo funciona su cerebro y el de sus empleados (neurociencia, hemisferios lógicos vs creativos) para optimizar el liderazgo.
+> *Perspectiva NotebookLM:* El autor hace hincapié en que la principal barrera en las organizaciones del Siglo XXI no es la falta de tecnología digital, sino las **barreras mentales internas** de los propios gerentes. Superar estas barreras (como lo hizo Cristina Maldonado en su caso de estudio) requiere usar la tecnología cerebral para re-cablear la mentalidad hacia la innovación.
+
 5. **Armonía Integral y Comunicación:** El líder es un catalizador de problemas. Debe identificar cómo percibe el mundo cada empleado (visual, kinestésico o auditivo) para comunicarse eficazmente.
 
 > [!TIP]

@@ -35,9 +35,10 @@ Para estructurar este complejo panorama, las autoras exponen el modelo postulado
 > **La Posición**
 > Se enfoca en la ubicación que tiene o aspira a alcanzar la organización dentro de un mercado. No se define en el vacío, sino considerando estrictamente los requerimientos del cliente externo. De la correcta lectura de esta posición depende la "ventaja competitiva duradera".
 
-> [!TIP]
-> **La Perspectiva**
-> En contraposición a la mirada exterior de la Posición, la Perspectiva posee un enfoque *introspectivo*. Valora la mentalidad, los valores y el accionar interno de los estrategas. Busca moldear la imagen corporativa interna evaluando cómo los empleados e inversores asimilan la esencia de la empresa.
+> [!NOTE]
+> **Perspectiva (Perspective)**
+> La estrategia es al interior de la organización lo que la personalidad es al individuo. Consiste en la forma arraigada en que la empresa percibe el mundo, sus ideologías y su visión compartida por todos los miembros.
+> *Perspectiva NotebookLM:* La estrategia como "Perspectiva" funciona exactamente como un **Modelo Mental**. En la actual "Human Age", los líderes deben estar dispuestos a "vaciar la habitación" de paradigmas viejos, ya que una perspectiva anquilosada destruirá a la organización frente a cambios disruptivos.
 
 ---
 

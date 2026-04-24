@@ -37,6 +37,7 @@ Los autores recopilan múltiples enfoques para catalogar el comportamiento direc
 
 ### D. Gerenciar Gerentes y "Action Learning"
 Dirigir estratégicamente a colaboradores que a su vez tienen personal a cargo. Se destaca el **Aprendizaje en Acción**, usando problemas reales del negocio para generar cursos de acción grupales y reflexionar sobre los resultados.
+*Perspectiva NotebookLM:* El líder moderno utiliza el Action Learning y herramientas similares no solo para formar habilidades, sino para **romper el Status Quo** y superar las barreras internas (como el miedo a "soñar en grande"). El liderazgo no se trata solo de dirigir, sino de forzar una disrupción positiva en la mentalidad del equipo.
 
 ---
 

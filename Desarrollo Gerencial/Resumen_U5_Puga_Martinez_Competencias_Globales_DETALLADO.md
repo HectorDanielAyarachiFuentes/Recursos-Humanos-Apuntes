@@ -33,6 +33,7 @@ A través de su estudio de campo, los autores identifican un grupo de cinco comp
 > [!NOTE]
 > **D. Liderazgo y E. Habilidades de Comunicación**
 > Completan el pentágono. El gerente global debe poseer visión estratégica para inspirar (Liderazgo) y la pericia verbal y actitudinal (Comunicación) para decodificar y transmitir la nueva realidad organizativa a sus colaboradores en entornos multiculturales complejos.
+> *Perspectiva NotebookLM:* La capacidad de comunicación no es solo retórica; se trata de dominar la tecnología y los datos para sustentar las ideas. En la "Human Age", un líder que no comunica basándose en datos medibles perderá el respeto de su equipo.
 
 ---
 

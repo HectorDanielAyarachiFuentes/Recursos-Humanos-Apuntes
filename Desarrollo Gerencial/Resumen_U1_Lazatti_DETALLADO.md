@@ -53,7 +53,8 @@ Sobre esta extensa base anatómica, Lazatti introduce el modelo PAEI. Sostiene q
 > **Integrador (I)**
 > Proceso mediante el cual los riesgos/metas individuales se armonizan con los colectivos. Actúa como creador de espíritu de equipo (*team building*), comunicando y resolviendo fricciones. Se refiere de manera exclusiva al **Factor Humano**.
 
-Lazatti advierte que es imposible que una sola persona logre dominar las cuatro letras con nivel de excelencia (PAEI en mayúsculas). Por eso, **la calidad gerencial es un esfuerzo de equipo complementario**.
+Lazatti advierte que es imposible que una sola persona logre dominar las cuatro letras con nivel de excelencia (PAEI en mayúsculas).La dirección general se encarga del Management, pero necesita un marco organizativo sólido y **gerentes complementarios**. 
+*Perspectiva NotebookLM:* El modelo PAEI de Adizes es la piedra angular del **Strategic Leadership Blueprint**. Ningún gerente puede dominar el plano estratégico si intenta ser perfecto en las cuatro letras. La estrategia se sostiene en aceptar la propia imperfección y formar un equipo donde las letras se complementen.
 
 ---
 

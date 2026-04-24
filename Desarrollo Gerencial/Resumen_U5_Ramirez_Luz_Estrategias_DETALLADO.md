@@ -34,6 +34,7 @@ Basándose en las disciplinas de la "organización que aprende", la autora las t
 > [!TIP]
 > **Estrategia 4: El Desarrollo Personal**
 > *Metáfora central:* "Solo existe una persona capaz de limitar tu crecimiento: ¡TÚ MISMO!". El gerente debe asumir riesgos, elegir temporalmente el rol de "aprendiz" para ganar perspectivas y redactar su propio Plan de Desarrollo Personal.
+> *El Caso de Cristina Maldonado (Perspectiva NotebookLM):* El caso de esta ejecutiva que llegó a Harvard se destaca como un material de reflexión fundamental sobre las **barreras internas**. A diferencia de las barreras externas (dinero, distancia, idioma), la "verdadera barrera" que ella identificó fue el condicionamiento de su entorno que le impedía "soñar en grande". Su caso subraya que el éxito gerencial y el desarrollo personal requieren, en primer lugar, una **transformación de la mentalidad personal** antes que cualquier título académico.
 
 > [!WARNING]
 > **Estrategia 5: Identificación de Modelos Mentales**

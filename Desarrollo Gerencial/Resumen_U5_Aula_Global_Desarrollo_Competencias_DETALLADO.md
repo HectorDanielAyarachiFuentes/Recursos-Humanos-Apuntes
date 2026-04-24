@@ -27,7 +27,7 @@ Se define a las competencias como el conjunto de capacidades que hacen posible l
 
 Frente a la velocidad del mercado, emerge el concepto de **Empleabilidad**: *La capacidad real que tiene un individuo para encontrar y mantener un trabajo*.
 El mercado laboral actual tiene efectos opuestos: un mayor *dinamismo* (más oportunidades) pero una altísima *sofisticación* (barrera para los no preparados). 
-Como el individuo no puede cambiar la macroeconomía, la única estrategia válida es la *adaptación personal*. El directivo moderno debe saber manejar la presión, tener una necesidad intrínseca de aprender y ser flexible. Surge el nuevo paradigma gerencial: **"Lo que se debe gestionar son competencias"**.
+*Perspectiva NotebookLM:* AulaGlobal asume que la verdadera empleabilidad de un directivo radica en su **"Learnability" (Aprendibilidad)**. Dado que un individuo no puede cambiar las reglas macroeconómicas, la única estrategia válida es la *adaptación personal* continua frente a la disrupción tecnológica. El directivo moderno debe saber manejar la presión, tener una necesidad intrínseca de aprender y ser flexible. Surge el nuevo paradigma gerencial: **"Lo que se debe gestionar son competencias"**.
 
 ---
 

@@ -42,8 +42,9 @@ Sobre esta extensa base anatómica, Lazatti introduce el modelo PAEI. Sostiene q
 > Capacidad de "hacer que las cosas sucedan" en el campo técnico (comercial, finanzas). Requiere fuerte empuje y "know-how". Esta función atañe directamente al campo de la **Operación**.
 
 > [!IMPORTANT]
-> **Administrador (A)**
-> Asegurar que la organización funcione de manera ordenada y predecible. Comprende el diseño de la estructura, procedimientos y riguroso control. Corresponde al campo del **Sistema Administrativo**.
+> **Administrador (A)**D. Resultados**
+Lo que la organización entrega a la sociedad o mercado. Puede ser un producto físico, un servicio intangible o una mejora social.
+*Perspectiva NotebookLM:* Aquí entra en juego la **Visión Sistémica**. El management no puede gestionar estos 4 campos como silos aislados. La anatomía entera debe estar orientada a generar *Valor Público* o *Valor Corporativo*, entendiendo que si el Entorno cambia (ej. irrupción de la Inteligencia Artificial), la Operación debe rediseñarse instantáneamente.tura, procedimientos y riguroso control. Corresponde al campo del **Sistema Administrativo**.
 
 > [!TIP]
 > **Empresario (E)**

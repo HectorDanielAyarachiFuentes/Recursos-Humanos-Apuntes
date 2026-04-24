@@ -30,7 +30,8 @@ Las experiencias en el puesto de trabajo son el método más popular (68% de pre
 > [!NOTE]
 > **A. Rotación de Puestos**
 > Trasladar a la persona en capacitación de un departamento a otro por varios meses. 
-> *Ventajas:* Evita el estancamiento, fomenta la cooperación interdepartamental y descubre las fortalezas del aprendiz. 
+> *Objetivo clave (NotebookLM):* Ampliar su visión sistémica del negocio e identificar fortalezas ocultas.
+> *Ventajas:* Evita el estancamiento y fomenta la cooperación interdepartamental. 
 > *Desventajas:* Alienta la "generalización" (sirve para gerentes generales, pero no para especialistas). (Ej. La rotación global de Shell entre países crea una red de información vital).
 
 > [!NOTE]
@@ -43,7 +44,7 @@ Las experiencias en el puesto de trabajo son el método más popular (68% de pre
 
 > [!NOTE]
 > **D. Aprendizaje en Acción (*Action Learning*)**
-> Los gerentes trabajan a tiempo completo resolviendo problemas reales en departamentos que no son los propios. (Ej. Un gerente de General Electric asignado a resolver un problema en una agencia de gobierno).
+> Los gerentes trabajan a tiempo completo resolviendo proyectos reales para solucionar problemas críticos en departamentos ajenos al propio. (Ej. Un gerente de General Electric asignado a resolver un problema en una agencia de gobierno). Esta experiencia fuera de su zona de confort acelera drásticamente su madurez directiva.
 
 ---
 
@@ -68,7 +69,7 @@ Dessler agrupa aquí metodologías complejas orientadas a la sensibilidad y el l
 
 > [!TIP]
 > **B. Capacitación Vroom-Yetton**
-> Utiliza un árbol de decisión (7 preguntas diagnósticas) para determinar si una decisión debe ser autocrática o consensuada. (Ej. Si un submarino es atacado, el capitán usa el árbol para saber si debe dar una orden directa o consultar a su equipo).
+> Utiliza un árbol de decisión (7 preguntas diagnósticas) para determinar el nivel de participación de los subordinados en la toma de decisiones. *Concepto clave (NotebookLM):* Se basa en dos ejes: la "complejidad" de la decisión y la "importancia de la calidad". (Ej. Si un submarino es atacado, el capitán usa el árbol para saber si debe dar una orden autocrática directa o consultar a su equipo ante un problema menos urgente).
 
 > [!TIP]
 > **C. Análisis Transaccional (AT)**

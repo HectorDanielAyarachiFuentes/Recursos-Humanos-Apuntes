@@ -78,6 +78,10 @@ Longo advierte un error fatal de los gobiernos: creer que con solo *capacitar* (
 
 ## 💼 Ejemplo Práctico Integrador
 
+> [!IMPORTANT]
+> **El Pilar Ético (Perspectiva NotebookLM)**
+> Frente a la amenaza constante de la *colonización política*, el diseño institucional no basta. NotebookLM destaca que la verdadera barrera de contención reside en los **Valores Éticos** del gerente. Si el gerente público no desarrolla una sólida "mentalidad ética" (el Ethos), las presiones partidarias terminarán perforando cualquier barrera legal.
+
 > [!TIP]
 > **El Peligro de la Colonización vs. La Discrecionalidad**
 > Un Ministerio de Salud decide crear la figura del "Director General de Hospitales". 

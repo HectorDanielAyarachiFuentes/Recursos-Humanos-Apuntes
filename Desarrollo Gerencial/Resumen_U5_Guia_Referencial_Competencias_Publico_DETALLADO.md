@@ -33,7 +33,7 @@ El diccionario es multinivel y se divide en tres grandes secciones complementari
 
 > [!IMPORTANT]
 > **Sección 2: Competencias Directivas Estratégicas**
-> El núcleo del desarrollo gerencial. Para quienes tienen personal a cargo y operan en la interfase entre el poder político y la burocracia. Se agrupa en 3 ejes:
+> El núcleo del desarrollo gerencial. Para quienes tienen personal a cargo y operan en la interfase entre el poder político y la burocracia. Se agrupa en 3 ejes que conforman el **Strategic Leadership Blueprint (Plano del Liderazgo Estratégico)**, donde la gestión de estas competencias desemboca directamente en el flujo de valor público:
 > - **Gestión de Resultados:** Planificación, mitigación de problemas, toma de decisiones con datos técnicos.
 > - **Gestión de Vínculos:** Comunicación asertiva, trabajo en equipo, negociación, orientación al ciudadano.
 > - **Conducción del Cambio:** Gestión digital, innovación, trabajo bajo presión.
